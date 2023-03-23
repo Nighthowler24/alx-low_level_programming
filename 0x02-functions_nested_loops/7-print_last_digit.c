@@ -2,7 +2,7 @@
 
 /**
  * print_last_digit - check the code
- * @d: value to determine last digit
+ * @i: value to determine last digit
  * Return: the last digit of the value given,any number.
  */
 int print_last_digit(int i)
