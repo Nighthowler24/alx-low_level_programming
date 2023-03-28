@@ -2,7 +2,7 @@
 
 /**
  * reset_to_98 - takes a pointer
- * @*n: function pointer
+ * @n: function pointer
  * Return: Always 0.
  */
 void reset_to_98(int *n)

@@ -3,8 +3,8 @@
 
 /**
  * *_strcpy - check the code
- * @dest - destination of the function
- * @src - source of the function
+ * @dest: destination of the function
+ * @src: source of the function
  * Return: Always 0.
  */
 char *_strcpy(char *dest, char *src)
