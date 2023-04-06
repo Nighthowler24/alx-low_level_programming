@@ -12,4 +12,6 @@ int wildcmp(char *s1, char *s2);
 int _putchar(char c);
 int real_sqrt_recursion(int n, int i);
 int real_prime(int n, int i);
+int palindrome(char *s, int c, int len);
+int _strlen_recursion(char *s);
 #endif
